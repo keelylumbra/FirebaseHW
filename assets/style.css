@@ -1,16 +1,25 @@
+body {
+    background-image: url("GHT48q.jpg");
+    background-color: #cccccc;
+}
+
+
 .jumbotron{
 	text-align: center;
 	margin: 100px;
 }
 
-.table{
+.table
+{
 	margin: 0 auto;
 	margin-bottom: 100px;
+	font: #FFFFFF;
+	background-color: #e4d1d1;
 
 }
 
-.input{
+.container {
 	margin: 0 auto;
-	width: 50%;
 	text-align: center;
+	font: #FFFFFF;
 }
